@@ -1,0 +1,98 @@
+
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.rip{
+    text-align: center;
+    background-color: aqua;
+    margin:3px 3px 4px 4px ;
+}
+.dad{
+    margin-left: 15px;
+    text-transform: uppercase;
+}
+.class{
+    margin-left: 15px;
+}
+
+.img{
+    width: 800;
+    height: auto;
+
+}
+.png{
+margin-left: 15px;
+margin-top: 30px;
+text-transform: lowercase;
+margin-bottom: 20px;
+}
+.what{
+    text-transform: uppercase;
+    margin-left: 15px;
+}
+.dog{
+    margin-left: 15px;
+
+}
+.kic{
+    margin-left: 15px;
+    margin-top: 8px;
+}
+.MDN{
+    margin-left:15px;
+}
+.GD{
+    margin-left: 15px;
+}
+.computer{
+    margin-left: 15px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+.nibba{
+    margin-left: 15px;
+    text-transform: uppercase;
+}
+.nibbi{
+    margin-left: 15px;
+    margin-top: 5px;
+
+}
+.star{
+    margin-left: 15px;
+    margin-top: 5px;
+
+}
+.something{
+    margin-left: 15px;
+    margin-top: 5px;
+
+}
+.Business{ 
+    margin-left: 15px;
+    margin-top: 5px;
+
+}
+.hope{
+    margin-left: 15px;
+    margin-top: 5px;
+}
+.gmg{
+    margin-left: 15px;
+    margin-top: 8px;
+    text-transform: uppercase;
+}
+.read{
+    margin-left: 15px;
+}
+.container{
+    border-top: 10px; 
+    width:1200px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+
